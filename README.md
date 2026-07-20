@@ -168,6 +168,15 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
+## 🙌 Special Thanks
+
+A special thanks to **Instructor – Akarsh Vyas** from **Sheryians AI School** for the insightful guidance and hands-on learning experience through the Generative AI course.
+
+🎥 YouTube Channel: https://www.youtube.com/@SheryiansAI
+
+His teaching made it easier to understand and build real-world **multi-agent AI systems** from scratch.
+
+
 ## ⭐ Support
 
 If you found this project helpful, please ⭐ the repo!
