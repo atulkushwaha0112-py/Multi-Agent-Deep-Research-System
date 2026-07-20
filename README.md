@@ -67,9 +67,8 @@ Final Output
  ┗ 📄 README.md
 ```
 
-```
-<img width="332" height="123" alt="image" src="https://github.com/user-attachments/assets/28a73431-0910-46c7-b426-5533a153d112" />
-```
+
+![Project Structure](https://github.com/user-attachments/assets/28a73431-0910-46c7-b426-5533a153d112)
 
 > ⚠️ Note: Entire project is implemented inside a **single notebook** for simplicity and learning purposes.
 
